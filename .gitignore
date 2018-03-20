@@ -1,0 +1,8 @@
+# Obtained via other sources
+node_modules
+
+# Dev files
+*.dat
+
+# Mac
+.DS_Store
